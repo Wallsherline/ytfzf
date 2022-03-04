@@ -9,5 +9,5 @@ case "$1" in
 			display "$2" ;;
 esac
 commit1
-commit1
+commit2
 commit2
